@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-08T02:16:27Z" name="Default suite" finished-at="2019-11-08T02:16:59Z" duration-ms="31233">
+    <groups>
+    </groups>
+    <test started-at="2019-11-08T02:16:27Z" name="Default test" finished-at="2019-11-08T02:16:59Z" duration-ms="31233">
+      <class name="com.qa.testcases.PlanTripPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.PlanTripPageTest@7586beff]" started-at="2019-11-07T18:16:27Z" name="setUp" finished-at="2019-11-07T18:16:30Z" duration-ms="2578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPlanTrippage()[pri:0, instance:com.qa.testcases.PlanTripPageTest@7586beff]" started-at="2019-11-07T18:16:30Z" name="verifyPlanTrippage" finished-at="2019-11-07T18:16:58Z" duration-ms="28470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPlanTrippage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.PlanTripPageTest@7586beff]" started-at="2019-11-07T18:16:58Z" name="tearDown" finished-at="2019-11-07T18:16:59Z" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.PlanTripPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
